@@ -11,7 +11,7 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <a href="https://github.com/AbhijeetAlapure">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00B5D8&center=true&vCenter=true&width=720&lines=Student+at+NMNSTIC%2C+Pune+%F0%9F%8E%93;AI+%2F+ML+%7C+GenAI+%7C+Agentic+AI+Enthusiast+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+FastAPI+%E2%80%A2+Azure+%E2%80%A2+AWS;Always+building%2C+always+learning+%F0%9F%9A%80" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00B5D8&center=true&vCenter=true&width=720&lines=AI+%2F+ML+%7C+GenAI+%7C+Agentic+AI+Enthusiast+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+FastAPI+%E2%80%A2+Azure+%E2%80%A2+AWS;Always+building%2C+always+learning+%F0%9F%9A%80" alt="typing intro" />
   </a>
 </p>
 
