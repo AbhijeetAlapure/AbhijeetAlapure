@@ -245,5 +245,5 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/AbhijeetAlapure">AbhijeetAlapure</a> — Thanks for visiting! ⭐</i>
+  ⭐ From <a href="https://github.com/AbhijeetAlapure">AbhijeetAlapure</a> — Thank You! for visiting! ⭐
 </p>
