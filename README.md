@@ -1,4 +1,3 @@
-
 <!-- ============================================= -->
 <!--   GITHUB PROFILE README — ABHIJEET ALAPURE   -->
 <!-- ============================================= -->
@@ -35,7 +34,7 @@ class AbhijeetAlapure:
     def __init__(self):
         self.name        = "Abhijeet Alapure"
         self.role        = "Student & Aspiring AI/ML Engineer"
-        self.education   = "NMNSTIC, Pune 🇮🇳"
+        self.education   = "SPPU, Pune-IN"
         self.languages   = ["Python", "SQL"]
         self.focus       = ["AI", "Machine Learning", "GenAI", "Agentic AI"]
         self.frameworks  = ["FastAPI", "LangChain", "LangGraph", "Scikit-Learn"]
@@ -219,20 +218,14 @@ me.say_hi()
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-alapure" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijeet-alapure/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhijeetalapure@example.com">
+  <a href="mailto:abhijeet.alapure123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AbhijeetAlapure">
+  <a href="https://github.com/AbhijeetAlapure" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/AbhijeetAlapure" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/AbhijeetAlapure" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
